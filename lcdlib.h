@@ -1,0 +1,19 @@
+#define     CYAN		 0x07FF
+#define     PURPLE		 0xF81F
+#define     RED          0XF800	  
+#define     GREEN        0X07E0	  
+#define     BLUE         0X001F	  
+#define     WHITE        0XFFFF	  
+#define     BLACK        0X0000	  
+#define     YELLOW       0XFFE0	  
+#define     ORANGE       0XFC08	  
+#define     GRAY  	     0X8430   
+#define     LGRAY        0XC618	  
+#define     DARKGRAY     0X8410	  
+#define     VIOLET       0X801F	  
+#define     PINK         0XF81F	  
+#define     GRAYBLUE     0X5458   
+#define     LGRAYBLUE    0XA651   
+#define     DARKBLUE     0X01CF	  
+#define 	LIGHTBLUE    0X7D7C	  
+
